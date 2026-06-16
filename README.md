@@ -62,9 +62,3 @@ Open `Project_DAM.ipynb` directly on GitHub. GitHub will render the notebook wit
    ```bash
    jupyter notebook Project_DAM.ipynb
    ```
-
-## Note
-
-The notebook references `rainbow1.jpg` as the source image. That image was not present in the original project folder when this GitHub-ready folder was created, so it must be added before rerunning the notebook from the beginning.
-
-Project completed by: Dhwani Patel
