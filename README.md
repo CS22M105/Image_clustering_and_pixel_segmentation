@@ -20,7 +20,7 @@ The homework is organized into four main tasks:
 - matplotlib and seaborn for visualization
 - scikit-learn for KMeans clustering and scaling
 - PyTorch for custom clustering
-- OpenCV for denoising in the completed answer notebook
+- OpenCV for denoising
 
 ## Input and Results Preview
 
@@ -35,9 +35,12 @@ The image is converted into a table where each row represents one pixel.
 4  50  49  44  4  0
 ```
 
-Input Image
+| Input Image |
+
 ![Original rainbow image](assets/original_image.png)
-Cleaned Image
+
+| Cleaned Image |
+
 ![Cleaned rainbow image](assets/cleaned_image.png)
 
 
