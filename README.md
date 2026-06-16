@@ -35,11 +35,11 @@ The image is converted into a table where each row represents one pixel.
 4  50  49  44  4  0
 ```
 
-| Input Image |
+Input Image
 
 ![Original rainbow image](assets/original_image.png)
 
-| Cleaned Image |
+Cleaned Image
 
 ![Cleaned rainbow image](assets/cleaned_image.png)
 
