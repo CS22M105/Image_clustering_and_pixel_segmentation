@@ -35,17 +35,10 @@ The image is converted into a table where each row represents one pixel.
 4  50  49  44  4  0
 ```
 
-| Input Image | Cleaned Image |
-| --- | --- |
-| ![Original rainbow image](assets/original_image.png) | ![Cleaned rainbow image](assets/cleaned_image.png) |
-
-| scikit-learn KMeans Result | Custom PyTorch Clustering Result |
-| --- | --- |
-| ![KMeans clustered image](assets/sklearn_clustered_image.png) | ![PyTorch clustered image](assets/pytorch_clustered_image.png) |
-
-| Cluster Distribution | PCA Cluster Plot |
-| --- | --- |
-| ![Cluster distribution plot](assets/sklearn_cluster_distribution.png) | ![PCA cluster plot](assets/pca_cluster_plot.png) |
+Input Image
+![Original rainbow image](assets/original_image.png)
+Cleaned Image
+![Cleaned rainbow image](assets/cleaned_image.png)
 
 
 ## How to Run Locally
