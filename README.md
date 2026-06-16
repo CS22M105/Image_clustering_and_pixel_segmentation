@@ -64,7 +64,7 @@ The image is converted into a table where each row represents one pixel.
    jupyter notebook
    ```
 
-4. Open `Image_Clustering_and_Pixel_Segmentation.ipynb`.
+4. Open `Image clustering.ipynb`.
 
 ## Note
 
